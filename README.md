@@ -1,2 +1,1 @@
-# dotfiles
-my personal dotfiles
+# Welcome to my dotfiles repository
